@@ -1,0 +1,16 @@
+This interview depends on how you did the Job Sample Test, each candidate interview can vary a lot I got python specific questions because I did Job Sample test in python
+
+01 - What is polymorphism Virtual functions Overriding Overloading
+
+02 - How to convert “1,2,3” into [1,2,3] in python?
+Solution:
+ls = "1,2,3"
+ls = ls.split(',')
+ls = list(map(int, ls))
+03 - What is eval() in python?
+04 - Difference between GET, POST and PUT?
+05 - File system in operating system?
+06 - What are command line arguments?
+07 - How to deal with command line arguments in python?
+08 - how to access class function without using its object?
+Answer: by scope resolution operation ::
